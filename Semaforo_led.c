@@ -2,9 +2,9 @@
 #include "pico/stdlib.h"  // Biblioteca padrão para funcionalidades básicas como GPIO, temporização e E/S.
 #include "pico/time.h"    // Biblioteca para gerenciamento de tempo, como manipulação de temporizadores e atrasos.
 
-#define LED_PIN_RED    11 // LED vermelho
+#define LED_PIN_GREEN  11 // LED verde
 #define LED_PIN_YELLOW 12 // LED amarelo
-#define LED_PIN_GREEN  13 // LED verde
+#define LED_PIN_RED    13 // LED vermelho
 
 // Variável para controlar o estado dos LEDs
 static enum { RED, YELLOW, GREEN } semaforo_estado = RED;

@@ -17,7 +17,7 @@ Este projeto simula o funcionamento de um semáforo utilizando um **Raspberry Pi
 
   Adicione este comando:
   
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Rayaneqsp/Semaforo.git
 
 2. **Abrindo o projeto no VSCode**:
    - Abra o VSCode e carregue a pasta do projeto clonada.
@@ -39,3 +39,11 @@ Este projeto simula o funcionamento de um semáforo utilizando um **Raspberry Pi
   2. LED **amarelo** acende por 3 segundos.
   3. LED **verde** acende por 3 segundos.
   4. O ciclo se repete infinitamente.
+
+## Licença
+
+Este projeto está licenciado para estudo e conhecimento.
+
+## Autora:
+
+**RAYANE QUEIROZ DOS SANTOS PASSOS**
